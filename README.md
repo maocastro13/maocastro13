@@ -1,4 +1,4 @@
-![logo](https://github.com/maocastro13/maocastro13/blob/main/Banner%20Itch%20(1).png)
+![logo](https://github.com/maocastro13/maocastro13/blob/b59c1f45949fb67db6744910713475e9f4672dc0/Banner%20Itch.png)
 
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">A passionate Game developer and Software Engineer from Colombia</h3>
